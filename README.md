@@ -1,4 +1,4 @@
-# Olá, eu sou Juan Granke <br/>
+# **Olá, eu sou Juan Granke**<br/>
 
 ## Tecnologias as quais tenho experiência:
 ![skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
