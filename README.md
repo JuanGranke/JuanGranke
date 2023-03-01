@@ -15,8 +15,6 @@
 
 ## Contato:
 
-Entre em contato pelo ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white),
-
-me chame no [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-granke/)
+Entre em contato pelo [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-granke/)
 
 ou vizualize meu [Currículo](https://drive.google.com/file/d/1zWWQNuWv4F1Tt22LspKyutrYNbw4IaF6/view?usp=share_link).
